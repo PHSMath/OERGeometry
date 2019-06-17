@@ -1,0 +1,69 @@
+# Congruent Triangles
+
+## Triangle Properties
+
+### Classification
+
+### Triangle Sum Theorem
+
+### Exterior Angle Theorem
+
+## Apply Congruence in Triangles
+
+### Definitions
+
+### Third Angles Theorem
+
+### Properties of Congruent Triangles
+
+## Transformations and Congruence
+
+### Rigid Transformations
+
+#### Translation
+
+#### Reflections
+
+#### Rotations
+
+### Non-Rigid Transformations
+
+#### Dilations
+
+### Perform Congruence Transformations
+
+#### Coordinate Notation
+
+#### Matrix and Vector Notation
+
+### Perform Non-Congruence Transformations
+
+#### Scalar Multiplation
+
+## Proving Triangles are Congruent
+
+### Side-Side-Side Congruence Postulate
+
+### Side-Angle-Side Congruence Postulate
+
+### Hypotenuse-Leg Congruence Theorem
+
+### Angle-Side-Angle Congruence Theorem
+
+### Angle-Angle-Side Congruence Theorem
+
+## Isoceles and Equilateral Triangles
+
+### Isosceles Triangles
+
+#### Base Angles Theorem
+
+#### Converse of Base Angles Theorem
+
+### Equilateral Triangles
+
+#### Corollary of the Base Angles Theorem
+
+#### Corollary to the Converse of Base Angles Theorem
+
+

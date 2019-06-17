@@ -1,0 +1,17 @@
+# Essentials of Geometry
+
+## Points, Lines, and Planes
+
+## Segments and Congruence
+
+## Midpoint and Distance Formulas
+
+## Angles
+
+## Angle Pair Relationships
+
+## Polygons
+
+## Prove Statements About Segments and Angles
+
+## Prove Angle Pair Relationshiops
